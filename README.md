@@ -10,17 +10,29 @@ bash
 Copy
 Edit
 📦 Supply-Chain-Optimization/
+
 │── 📂 src/                         # Source code directory
+
 │   ├── 📄 optimization_model.py     # Main optimization script
+
 │   ├── 📂 data2/                    # Folder for cleaned dataset
+
 │   │   ├── 📄 cleaned_supply_chain_data.csv  # Large dataset (Google Drive link)
+
 │   ├── 📂 utils/                     # Helper functions
+
 │   │   ├── 📄 data_preprocessing.py  # Data cleaning script
+
 │   │   ├── 📄 model_helper.py        # Functions for optimization model
+
 │── 📂 results/                      # Stores optimization results
+
 │   ├── 📄 optimized_routes.csv      # Output CSV file
+
 │── 📄 README.md                     # Project documentation
+
 │── 📄 requirements.txt               # Required dependencies
+
 │── 📄 .gitignore                     # Ignores large/unwanted files
 📊 Data Collection: Scraping Amazon Data
 🔍 1. Getting Raw Data from Amazon
